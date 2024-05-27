@@ -83,6 +83,13 @@ Linux uses a permission model to secure files and directories. Permissions inclu
 Commands to manage permissions:
 
 - `chmod`: Change the permissions of a file.
+
   ```sh
   chmod 755 filename
+---
 
+Feel free to explore the repository and check out the materials and assignments for each topic. If you have any questions or feedback, please don't hesitate to reach out.
+
+---
+
+Thank you for visiting my GitHub repository. Happy coding! 🚀
