@@ -86,7 +86,7 @@ Commands to manage permissions:
 
   ```sh
   chmod 755 filename
----
+  ---
 
 Feel free to explore the repository and check out the materials and assignments for each topic. If you have any questions or feedback, please don't hesitate to reach out.
 
