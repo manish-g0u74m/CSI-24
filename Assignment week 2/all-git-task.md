@@ -1,21 +1,23 @@
 ## Task 1: Setup a Remote Repository in Local, Add a File and Commit, Save the Changes, and Push to Master Branch
 
 **Solution:**  
+
     **First we need to configure Git**
     ```bash
     git config --global user.name "your Name"
     git config --global user.email "your_email@example.com" 
     ```
 
-    **make a directory**
+    **make a directory:**
     ```bash
     mkdir my-project
     cd my-project
     '''
+    
     **Clone the Remote Repository in Local**
     ```bash
     git clone https://github.com/username/our-repo-name.git
-
+    ```
 1. **Initialize a Local Repository:**
     ```bash
     git init
