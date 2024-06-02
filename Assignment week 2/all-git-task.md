@@ -2,19 +2,19 @@
 
 **Solution:**  
 
-    **First we need to configure Git**
+   **First we need to configure Git**
     ```bash
     git config --global user.name "your Name"
     git config --global user.email "your_email@example.com" 
     ```
 
-    **make a directory:**
+   **make a directory:**
     ```bash
     mkdir my-project
     cd my-project
     '''
     
-    **Clone the Remote Repository in Local**
+   **Clone the Remote Repository in Local**
     ```bash
     git clone https://github.com/username/our-repo-name.git
     ```
